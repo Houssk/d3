@@ -50,7 +50,7 @@
     "d3-force": "0.6.2",
     "d3-format": "0.5.1",
     "d3-hierarchy": "0.2.2",
-    "d3-interpolate": "0.7.0",
+    "d3-interpolate": "0.9.0",
     "d3-path": "0.1.5",
     "d3-polygon": "0.2.1",
     "d3-quadtree": "0.7.2",
